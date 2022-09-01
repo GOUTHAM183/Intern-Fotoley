@@ -92,11 +92,6 @@ python-lsp-server
 
 pytz
 
-pywin32
-pywin32-ctypes
-
-PyYAML
-
 queuelib
 
 
