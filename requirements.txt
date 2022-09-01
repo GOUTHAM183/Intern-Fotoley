@@ -26,7 +26,6 @@ click-repl
 clyent
 
 comtypes
-conda
 
 constantly
 cssselect
