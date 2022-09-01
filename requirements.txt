@@ -102,7 +102,7 @@ pyls-spyder
 
 pyreadline
 
-pytest=
+pytest
 
 python-lsp-jsonrpc
 python-lsp-server
