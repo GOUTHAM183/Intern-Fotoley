@@ -69,37 +69,21 @@ mccabe
 mediapipe
 
 mistune
-mkl-fft
-
-mkl-service
 
 mpmath
 
-multipledispatch
-munkres
-mypy-extensions
 
-opencv-contrib-python
+
+
 
 pathspec
 patsy
 pep8
 
 Pillow
-pinax-invitations
-pinax-teams
-
-protobuf
-
-pyasn1-modules
 
 
-pycurl
-PyDispatcher
 
-pyls-spyder
-
-pyreadline
 
 pytest
 
