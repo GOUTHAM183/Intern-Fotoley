@@ -53,7 +53,7 @@ email-reply-parser
 et-xmlfile
 
 fonttools
-
+python == 3.9
 
 future
 gunicorn
