@@ -35,7 +35,7 @@ cytoolz
 daal4py
 
 datashape
-setuptools
+
 Django
 django-appconf
 django-bootstrap4-form
