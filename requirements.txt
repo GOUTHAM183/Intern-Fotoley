@@ -1,4 +1,4 @@
-aiohttp @ file:///C:/ci/aiohttp_1646806545879/work
+
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 akismet==1.2.1
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
