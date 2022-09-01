@@ -40,12 +40,12 @@ django-appconf
 django-bootstrap4-form
 django-ckeditor
 django-crispy-forms
-django-helpdesk
+
 django-js-asset
 django-model-utils
 django-reversion
 django-user-accounts
-djangorestframework
+
 
 email-reply-parser
 
@@ -58,9 +58,7 @@ future
 gunicorn
 h5py
 
-inflection
 
-jupyter
 
 kombu
 
